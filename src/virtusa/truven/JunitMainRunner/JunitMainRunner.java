@@ -16,6 +16,7 @@ public class JunitMainRunner {
 			System.out.println(junit.getName());
 			System.out.println(junit.getPhoneNum());
 			System.out.println(junit.getSalary());
+			
 		}
 	}
 }
