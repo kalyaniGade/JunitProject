@@ -8,7 +8,7 @@ public class CalculatorTest {
 
 	@Test
 	public void test() {
-		assertEquals(26,10+16);
+		assertEquals(20,10+10);
 	}
 
 }
